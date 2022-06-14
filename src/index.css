@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    margin: 0; 
+    box-sizing: border-box;
+    font-size: 0.8rem;
+    font-family: 'Press Start 2P';
+}
+:root{
+    --primary: #F2250A;
+    --secondary: #20CBB8;
+    --tertiary: #24272E;
+    --quaternary: #D6DBDE;
+    --quinquennial: #81BAC3;
+}

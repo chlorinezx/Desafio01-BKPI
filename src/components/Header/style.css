@@ -1,0 +1,21 @@
+.border_header{
+    background-color: #24272E;
+    height: 3vh;
+}
+
+.Navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+}
+
+.Navbar figure svg{
+    cursor: pointer;
+    font-size: 3rem;
+    color: #20CBB8;
+}
+
+.Logo{
+    margin: 0 6%;
+}

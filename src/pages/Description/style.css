@@ -1,0 +1,59 @@
+.container--pokemon{
+    margin: auto;
+    margin-top: 25%;
+}
+.container--pokemon .pokemons{
+    width: 317px;
+    height: 170px;
+    margin: auto;
+}
+.container--pokemon img{
+    margin-bottom: 1.3rem;
+}
+.pokemon--types{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pokemon--types .type{
+    width: 150px;
+    margin: .5rem;
+    padding: 5px;
+    text-align: center;
+    border: 1px solid #000;
+    border-radius: 20px;
+}
+.container--dark--mode div p{
+    color: var(--tertiary);
+}
+.container--pokemon--attributes {
+    display: flex;
+    justify-content: center;
+    margin-top: .5rem; 
+    background: var(--tertiary);
+    text-align: center;
+    padding-bottom: 5rem;
+    border-radius:  1rem 1rem 0 0 ;
+}
+.pokemon--attributes{
+    padding-bottom: 23%;
+    width: 50%;
+    display: flex;
+    margin: 1.5rem;
+    justify-content: space-between;
+}
+.pokemon--attributes .attribute p{
+    margin-bottom: 10px;
+    font-family: 'Press Start 2P';
+    font-size: 1rem;
+    color: var(--quaternary);
+}
+.pokemon--attributes .attribute span{
+    color: var(--secondary);
+}
+.description_pokemons, .description_charmander, .description_ivysaur, .description_charmeleon, .description_venusaur, .description_charizard{
+    background: transparent;
+}
+.container--pokemon .description_charmander{
+    left: 20%;
+}

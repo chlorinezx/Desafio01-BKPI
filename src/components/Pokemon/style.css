@@ -1,0 +1,141 @@
+.pokemons{
+    width: 190px;
+    height: 95px;
+    background-color: var(--primary);
+    border-radius: 25px;
+    margin: 5% 2%;
+}
+
+.description_pokemons{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 85%;
+    background-color: #24272E;
+    height: 22%;
+    width: 94%;
+    margin: 0 auto;
+    border-radius: 22px;
+}
+
+.name{
+    margin-left: 17%;
+    color: #D6DBDE;
+    font-size: 93%;
+}
+
+.id{
+    color: #81BAC3;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bulbasaur{
+    width: 75%;
+    position: relative;
+    bottom: 62%;
+    left: 11%
+}
+
+.charmander{
+    width: 44%;
+    position: relative;
+    bottom: 36%;
+    left: 31%;
+}
+
+.description_charmander{
+    bottom: 31%;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    background-color: #24272E;
+    height: 22%;
+    width: 97%;
+    margin: 0 auto;
+    border-radius: 22px;
+}
+
+.ivysaur{
+    width: 56%;
+    position: relative;
+    bottom: 34%;
+    left: 17%;
+}
+
+.description_ivysaur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 32%;
+    background-color: #24272E;
+    height: 22%;
+    width: 91%;
+    margin: 0 auto;
+    border-radius: 22px;
+}
+
+.Charmeleon{
+    width: 43%;
+    position: relative;
+    bottom: 30%;
+    left: 28%;
+}
+
+.description_charmeleon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 32%;
+    background-color: #24272E;
+    height: 22%;
+    width: 91%;
+    margin: 0 auto;
+    border-radius: 22px;
+}
+
+.venusaur{
+    width: 59%;
+    position: relative;
+    bottom: 45%;
+    left: 15%;
+}
+
+.description_venusaur{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    bottom: 46%;
+    background-color: #24272E;
+    height: 22%;
+    width: 91%;
+    margin: 0 auto;
+    border-radius: 22px;
+}
+
+.charizard{
+    width: 73%;
+    position: relative;
+    bottom: 59%;
+    left: 13%;
+}
+
+.description_charizard{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 73%;
+    background-color: #24272E;
+    height: 22%;
+    width: 94%;
+    margin: 0 auto;
+    border-radius: 22px;
+}

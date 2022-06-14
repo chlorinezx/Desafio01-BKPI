@@ -1,0 +1,6 @@
+.Main__pokedex{
+  max-width: 540px;
+  margin: 0 auto;
+  background-color: var(--quaternary);
+  height: 100vh;
+}
